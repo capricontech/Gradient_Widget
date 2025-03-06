@@ -42,8 +42,6 @@ class _GradientProgressIndicatorState extends State<GradientProgressIndicator>
   @override
   void initState() {
     super.initState();
-
-    assert(widget.gradient != null, 'Please set the gradient!');
     assert(widget.gradient.colors.length == 2,
         'gradient must have two colors only');
 

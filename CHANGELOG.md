@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.6.1
+- Made changes to ensure compatibility with flutter Update 3.19
+
 ## 0.6.0
 
 - GradientCircularProgressIndicator
